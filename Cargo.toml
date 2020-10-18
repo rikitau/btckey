@@ -10,4 +10,5 @@ edition = "2018"
 bitcoin = "0.25.0"
 bip39 = "1.0.0-rc1"
 ring = "0.16.15"
+ansi-escapes = "0.1.0"
 
